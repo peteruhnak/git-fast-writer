@@ -1,3 +1,9 @@
+# **REPO MIGRATED TO https://github.com/pharo-contributions/git-migration**
+
+I no longer maintain this project.
+
+---
+
 # Git Fast Writer
 [![Build Status](https://travis-ci.org/peteruhnak/git-fast-writer.svg?branch=master)](https://travis-ci.org/peteruhnak/git-fast-writer) [![Coverage Status](https://coveralls.io/repos/github/peteruhnak/git-fast-writer/badge.svg?branch=master)](https://coveralls.io/github/peteruhnak/git-fast-writer?branch=master)
 
